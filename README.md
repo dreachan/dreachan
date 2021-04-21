@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dreachan
+- 👀 I’m interested in cool things
+- 🌱 I’m currently learning python with Code in Place 2021
+- 💞️ I’m looking to collaborate on fun little projects!
+- 📫 How to reach me: hi@andreachan.com
